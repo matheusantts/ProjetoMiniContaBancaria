@@ -2,7 +2,7 @@
 ## ⏳ EM DESENVOLVIMENTO
 
 ## Mini Sistema Bancário
-Aplicação fullstack que simula operações financeiras básicas. Permite cadastro e login de usuários, criação de contas, depósitos, saques, consulta de saldo e extrato de transações.
+Aplicação fullstack que simula operações financeiras básicas. Permite cadastro e login de usuários, criação de contas, depósitos, saques, consulta de aldo e extrato de transações.
 
 ## 👨🏾‍💻 Autor
 
